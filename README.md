@@ -2,14 +2,14 @@
 ![](https://github.com/Lylio/image-repo/blob/master/logos/mockito.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/test.png?raw=true)
 
-# Learn Java Unit Testing with Junit & Mockito in 30 Steps
+# Java Unit Testing with JUnit & Mockito
 
 ### Description
 
-Course content for the Udemy tutorial 'Learn Java Unit Testing with Junit & Mockito in 30 Steps'.
+JUnit and Mockito practice.
 
 ### Tech Stack
-- Junit
+- JUnit
 - Mockito
 - Maven
 
@@ -18,10 +18,10 @@ Course content for the Udemy tutorial 'Learn Java Unit Testing with Junit & Mock
 #### Maven Launch
 1. Maven's entire suite of tests can be run with `mvn test`
 2. A specific test class can be run with `mvn test -Dtest="TestController"`
-3. A specfic single test from a test class can be run with `mvn test -Dtest="TestController#retrunAllCustomers"`
+3. A specific single test from a test class can be run with `mvn test -Dtest="TestController#retrunAllCustomers"`
 
 <br/>
 
 #### Acknowledgements
-- [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples).
-- [GitHub Repo for Course](https://github.com/in28minutes/spring-unit-testing-with-junit-and-mockito)
+- [Learn Java Unit Testing with JUnit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples)
+- [Mockito Tutorial for Beginners](https://examples.javacodegeeks.com/core-java/mockito/mockito-tutorial-beginners/)
